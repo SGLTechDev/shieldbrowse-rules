@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-07T00:00:00Z",
+  "fetchIntervalHours": 4,
+
+  "_comment": "All lists here are ADDITIVE — they merge with the bundled defaults, not replace them. This means you only need to add NEW entries, not re-list existing ones.",
+
+  "brands": {},
+
+  "shorteners": [],
+
+  "safeRedirectors": [],
+
+  "scamPhrases": [],
+
+  "urgencyPhrases": [],
+
+  "shamePhrases": [],
+
+  "sketchyTLDs": [],
+
+  "safeDomains": [],
+
+  "suspiciousSuffixes": [],
+
+  "skipDarkPatterns": [],
+
+  "feePatterns": [],
+
+  "scamGuarantees": [],
+
+  "socialProofPatterns": [],
+
+  "scarcityPatterns": [],
+
+  "announcements": []
+}
